@@ -1,0 +1,1 @@
+{"name":"Local: t","url":"d:\\Code FOrces\\t.cpp","tests":[{"id":1728826136122,"input":"5\n24 3 5\n10 3 6\n2345 1 4\n19260817 394 485\n19260817 233 264\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code FOrces\\t.cpp","group":"local","local":true}

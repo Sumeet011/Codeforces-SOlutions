@@ -1,0 +1,1 @@
+{"name":"Local: minimum_opr","url":"d:\\Code FOrces\\minimum_opr.cpp","tests":[{"id":1728710824670,"input":"6\n5 2\n3 5\n16 4\n100 3\n6492 10\n10 1\n","output":"2\n3\n1\n4\n21\n10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code FOrces\\minimum_opr.cpp","group":"local","local":true}

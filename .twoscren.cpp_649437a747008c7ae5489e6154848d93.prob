@@ -1,0 +1,1 @@
+{"name":"Local: twoscren","url":"d:\\Code FOrces\\twoscren.cpp","tests":[{"id":1728917250016,"input":"3\nGARAGE\nGARAGEFORSALE\nABCDE\nAABCD\nTRAINING\nDRAINING\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code FOrces\\twoscren.cpp","group":"local","local":true}

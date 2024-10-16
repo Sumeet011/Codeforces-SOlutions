@@ -1,0 +1,1 @@
+{"name":"Local: Q_2009E","url":"d:\\Code FOrces\\Q_2009E.cpp","tests":[{"id":1728539244787,"input":"4\n2 2\n7 2\n5 3\n1000000000 1000000000\n","output":"1\n5\n1\n347369930\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code FOrces\\Q_2009E.cpp","group":"local","local":true}

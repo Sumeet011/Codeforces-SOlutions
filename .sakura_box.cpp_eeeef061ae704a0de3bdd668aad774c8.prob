@@ -1,0 +1,1 @@
+{"name":"Local: sakura_box","url":"d:\\Code FOrces\\sakura_box.cpp","tests":[{"id":1728641506521,"input":"3\n3\n3 2 3\n4\n2 2 2 4\n5\n1 2 3 4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code FOrces\\sakura_box.cpp","group":"local","local":true}
